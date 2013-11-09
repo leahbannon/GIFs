@@ -5,7 +5,7 @@ GIFs I plan to make/find. Because I'm too hungover to do anything more productiv
 
 * GWTDT: annoyed about computer in girl dragon tattoo
 
-*new girl: temple grandon
+* new girl: temple grandon
 
 * mindy falling off couch
 
