@@ -1,7 +1,7 @@
 GIFs
 ====
 
-GIFs I plan to make/find. Because I'm too hungover to do anything more productive.
+GIFs I plan to make/find.
 
 * GWTDT: annoyed about computer in girl dragon tattoo
 
