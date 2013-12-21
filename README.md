@@ -1,7 +1,33 @@
 GIFs
 ====
 
-GIFs I plan to make/find.
+GIFs I made:
+
+<img src="https://github.com/leahbannon/GIFs/blob/master/beyonce-Im-out.gif?raw=true">
+
+<img src="https://github.com/leahbannon/GIFs/blob/master/beyonce-angry-stand.gif?raw=true">
+
+<img src="https://github.com/leahbannon/GIFs/blob/master/beyonce-cut-it.gif?raw=true">
+
+<img src="https://github.com/leahbannon/GIFs/blob/master/beyonce-falling-in-bed.gif?raw=true">
+
+<img src="https://github.com/leahbannon/GIFs/blob/master/beyonce-hate-the-table.gif?raw=true">
+
+<img src="https://github.com/leahbannon/GIFs/blob/master/beyonce-pretty.gif?raw=true">
+
+<img src="https://github.com/leahbannon/GIFs/blob/master/beyonce-squee.gif?raw=true">
+
+<img src="https://github.com/leahbannon/GIFs/blob/master/beyonce-water.gif?raw=true">
+
+<img src="https://github.com/leahbannon/GIFs/blob/master/beyonce-withering-stare.gif?raw=true">
+
+<img src="https://github.com/leahbannon/GIFs/blob/master/beyonceglare.gif?raw=true">
+
+<img src="https://github.com/leahbannon/GIFs/blob/master/beyoncewhatever.gif?raw=true">
+
+<img src="https://github.com/leahbannon/GIFs/blob/master/beyoncexo.gif?raw=true">
+
+<img src="https://github.com/leahbannon/GIFs/blob/master/dark-skyline.gif?raw=true">
 
 <img src="https://github.com/leahbannon/GIFs/blob/master/calmtheefuckdown.gif?raw=true">
 
