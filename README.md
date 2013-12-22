@@ -3,6 +3,8 @@ GIFs
 
 GIFs I made:
 
+<img src="https://github.com/leahbannon/GIFs/blob/master/beyonce-silly.gif?raw=true">
+
 <img src="https://github.com/leahbannon/GIFs/blob/master/beyonce-Im-out.gif?raw=true">
 
 <img src="https://github.com/leahbannon/GIFs/blob/master/beyonce-angry-stand.gif?raw=true">
